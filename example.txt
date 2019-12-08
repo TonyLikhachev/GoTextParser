@@ -1,0 +1,5 @@
+google.com
+golang.org
+radio.yandex.ru
+wikipedia.org
+duckduckgo.com
